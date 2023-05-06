@@ -1,0 +1,11 @@
+Problem Statement:
+The high rate of product returns in e-commerce companies due to incorrect sizing choices made by customers can be a significant financial burden. This issue not only leads to additional costs for the company. To tackle this problem, a recommendation system can be developed that utilizes customer data such as  Chest,Front Length,Across Shoulder sizes to provide accurate sizing recommendations for each individual customer. By implementing such a system, e-commerce companies can reduce the rate of product returns, increase customer satisfaction, and save costs, thereby improving their overall profitability and brand reputation.
+
+
+Requirements:
+Python
+pandas
+numpy
+matplotlib
+seaborn
+sklearn
